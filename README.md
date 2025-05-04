@@ -1,5 +1,5 @@
 <h1>BC | Digital Health Passport</h1>
-<p>This is my personal portfolio website built with Angular 19, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app](https://www.notion.so/Sumant-Chaganti-1e92a9ffe6a280758bcfd456bac162f6)/<p>
+<p>This is my personal portfolio website built with Angular 19, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine. It's currently deployed on the web: https://www.notion.so/Sumant-Chaganti-1e92a9ffe6a280758bcfd456bac162f6?pvs=4<p>
 
 <h1>Author</h1>
 <p>I'm Sumant Chaganti, a Frontend developer.</p>
