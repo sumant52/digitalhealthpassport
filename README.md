@@ -24,6 +24,70 @@ The potfolio has sections of home, about, education, portfolio projects and cont
   <li>Jasmine 5 - Behavior-driven testing framework.</li>
   <li>Karma 6 - Test runner for Angular.</li>
   <li>Vercel - Cloud platform for static sites.</li>
-  <li>Node js - Backend Developer</li>
+  <li>Node js - Backend Development</li>
   <li>MongoDB - Database</li>
 </ul>
+
+<h1>Development server</h1>
+
+<p>You can run this project locally too.
+
+Clone this repo.
+
+Run ng serve for a dev server.
+
+Navigate to http://localhost:4200/.
+
+The application will automatically reload if you change any of the source files.</p>
+
+<h1>Code scaffolding</h1>
+
+<p>Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.</p>
+
+<h1>Build</h1>
+
+<p>Run ng build to build the project. The build artifacts will be stored in the dist/ directory.</p>
+
+<h1>Test</h1>
+
+<p>Run ng test to test the project. This will launch the Karma test runner and execute all Jasmine test specs (*.spec.ts files).</p>
+
+<h1>Further help</h1>
+
+<p>To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.</p>
+
+<h1>About</h1>
+
+<p>This portfolio was designed and developed by myself, Barbara Calderon, using frontend software skills for a dynamic and responsive web application.</p>
+
+<h1>Version History</h1>
+
+<table>
+  <thead>
+    <th>Version</th>
+    <th>Date</th>
+    <th>Description</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2.0.0</td>
+      <td>Apr 2025</td>
+      <td>!breaking changes Upgrade Angular v17 to v19. Replace "accordion" with "expansion". Replace "carousel" with "swiper". Remove ngx-bootstrap lib. Refactor breaking code. Update tests with Jasmine framework.</td>
+    </tr>
+    <tr>
+      <td>1.3.0</td>
+      <td>Mar 2025</td>
+      <td>Added "forecast-cli" project to portfolio.</td>
+    </tr>
+    <tr>
+      <td>1.2.0</td>
+      <td>Feb 2025</td>
+      <td>Added 5 projects to portfolio. Resolved Vite overlay issue.</td>
+    </tr>
+    <tr>
+      <td>1.1.1</td>
+      <td>Jan 2025</td>
+      <td>Updated content on about me page. Resolved issues with dependencies alerts by upgrading.</td>
+    </tr>
+  </tbody>
+</table>
