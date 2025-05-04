@@ -1,4 +1,4 @@
-<h1>BC | Angular Portfolio App</h1>
+<h1>BC | Digital Health Passport</h1>
 <p>This is my personal portfolio website built with Angular 19, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine. It's currently deployed on the web: https://angular-portfolio-app-omega.vercel.app/<p>
 
 <h1>Author</h1>
@@ -12,5 +12,18 @@ The potfolio has sections of home, about, education, portfolio projects and cont
 <h1>Technologies Used</h1>
 
 <ul>
-  <li></li>
+  <li>Angular 19 - Latest version with standalone components.</li>
+  <li>TypeScript 5.8 - Strongly typed JavaScript superset.</li>
+  <li>Angular Material 19 - Material Design components.</li>
+  <li>Bootstrap 5 - Responsive CSS framework.</li>
+  <li>Bootstrap Icons - Clean SVG icons.</li>
+  <li>Swiper.js 11 - Modern touch slider.</li>
+  <li>Angular CLI 19 - Official build tooling.</li>
+  <li>RxJS 7 - Reactive programming library.</li>
+  <li>Vite - Next-gen frontend tooling (via Angular CLI).</li>
+  <li>Jasmine 5 - Behavior-driven testing framework.</li>
+  <li>Karma 6 - Test runner for Angular.</li>
+  <li>Vercel - Cloud platform for static sites.</li>
+  <li>Node js - Backend Developer</li>
+  <li>MongoDB - Database</li>
 </ul>
