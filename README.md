@@ -89,5 +89,20 @@ The application will automatically reload if you change any of the source files.
       <td>Jan 2025</td>
       <td>Updated content on about me page. Resolved issues with dependencies alerts by upgrading.</td>
     </tr>
+    <tr>
+      <td>1.1.0</td>
+      <td>Jan 2025</td>
+      <td>Updated content on home and about me pages. Fixed window width issues. Carousel anchor tags no longer green style. Resolved issue with carousel indicators not displaying. Added license.</td>
+    </tr>
+    <tr>
+      <td>1.0.1</td>
+      <td>Jun 2024</td>
+      <td>Added more projects to the portfolio page.</td>
+    </tr>
+     <tr>
+      <td>1.0.0</td>
+      <td>May 2024</td>
+      <td>Initial release of the portfolio.</td>
+    </tr>
   </tbody>
 </table>
